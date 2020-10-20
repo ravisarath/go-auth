@@ -1,4 +1,6 @@
 # auth-server
+authentication with auth token 
+
 
 Login API
 
